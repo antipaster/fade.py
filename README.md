@@ -23,3 +23,5 @@ Screenshots:
 ![Windows Terminal 3](/resources/WindowsTerminal_K0XUjbJkh6.png)
 ![Windows Terminal 2](/resources/WindowsTerminal_j04T602Qqq.png)
 ![Windows Terminal 1](/resources/WindowsTerminal_4GzDCG9Iba.png)
+
+(If u want nice ascii art like on screenshots use art text2art lib 
