@@ -1,6 +1,6 @@
 # fade.py
 
-example usage:
+## Example usage:
 ```python
 import fade
 
@@ -10,18 +10,18 @@ print(fade.gradient("CUSTOM", (255, 0, 0), (0, 255, 0)))
 print(fade.gradient_progress(72, style="neon"))
 ```
 
-One-stop styles:
+## One-stop styles:
 - `purplepink`, `water`, `fire`, `green`, `blue`, `gold`, `silver`, `neon`, `pink`, `toxic`, `lava`, `ice`, `forest`, `sunset`, `doom`, `cyberpunk`, `shadow`, `snow`
 
-Multi-stop styles:
+## Multi-stop styles:
 
 - `rainbow`, `galaxy`, `aurora`, `candy`, `heatmap`, `matrix`, `pride`
 
-Screenshots:
+## Screenshots:
 ![Windows Terminal 5](/resources/WindowsTerminal_r0b4oQOSe8.png)
 ![Windows Terminal 4](/resources/WindowsTerminal_KA4abd0TU2.png)
 ![Windows Terminal 3](/resources/WindowsTerminal_K0XUjbJkh6.png)
 ![Windows Terminal 2](/resources/WindowsTerminal_j04T602Qqq.png)
 ![Windows Terminal 1](/resources/WindowsTerminal_4GzDCG9Iba.png)
 
-(If u want nice ascii art like on screenshots use art text2art lib 
+(If u want nice ascii art like on screenshots use art text2art lib)
