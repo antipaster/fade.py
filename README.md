@@ -1,7 +1,5 @@
 # fade.py
 
-![Windows Terminal 5](/resources/WindowsTerminal_r0b4oQOSe8.png)
-
 example usage:
 ```python
 import fade
@@ -18,3 +16,10 @@ One-stop styles:
 Multi-stop styles:
 
 - `rainbow`, `galaxy`, `aurora`, `candy`, `heatmap`, `matrix`, `pride`
+
+Screenshots:
+![Windows Terminal 5](/resources/WindowsTerminal_r0b4oQOSe8.png)
+![Windows Terminal 4](/resources/WindowsTerminal_KA4abd0TU2.png)
+![Windows Terminal 3](/resources/WindowsTerminal_K0XUjbJkh6.png)
+![Windows Terminal 2](/resources/WindowsTerminal_j04T602Qqq.png)
+![Windows Terminal 1](/resources/WindowsTerminal_4GzDCG9Iba.png)
